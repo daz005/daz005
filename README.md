@@ -1,5 +1,6 @@
 ### 👋 Hi there, 
 ### <div align="center"> I'm Derek Zhu, a Software Engineer and Researcher 📚 </div>
+<br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
