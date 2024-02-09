@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ... startup mentorship
 - 💬 Ask me about ... dc comics and quantum physics
 - 📫 How to reach me: ... you know how
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... i used to work as a janitor
 
 <!--
 <details>
